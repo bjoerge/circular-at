@@ -1,6 +1,6 @@
 {
   "name": "circular-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access array items at any positive or negative index. If the index is out of bounds, it will be wrapped around the length of the array.",
   "main": "index.js",
   "scripts": {

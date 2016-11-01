@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/bjoerge/circular-at/issues"
   },
-  "homepage": "https://github.com/bjoerge/circular-at#readme"
+  "homepage": "https://github.com/bjoerge/circular-at#readme",
+  "runkitExampleFilename": "./example.js"
 }

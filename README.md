@@ -1,4 +1,4 @@
-# `circular-at`
+# circular-at
 
 Access array items at any positive or negative index. If the index is out of bounds, it will be wrapped around the length of the array.
 
